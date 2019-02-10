@@ -10,13 +10,13 @@ To check your bill payment status, use the web service [HalalaH EMV Code Bill St
 #### Parameters
 #### EMV Code Parameters 
 - ###### Terminal Unique ID
-> terminal=HG00001 `Terminal ID provided by HalalaH`
+> terminal=HG00001 `Terminal Label provided by HalalaH`
 
 - ###### Amount
 > amount=10.50 `Amount in decimal format`
 
 - ###### Reference Unique ID
-> referenceNo=Unique_Order_ID `Unique number to identify order per terminal in HalalaH Platform`
+> referenceNo=Unique_Order_ID `Unique number to identify order per terminal in HalalaH Platform. Minimum of 12 characters`
 
 - ###### Bill Number
 > billNo=1233111 `Bill Number or Invoice number from merchant platform`
