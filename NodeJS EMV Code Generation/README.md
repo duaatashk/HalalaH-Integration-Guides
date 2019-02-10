@@ -16,37 +16,39 @@ npm install
 Use the variable inputs in convert.js file to generate QrCode String
 
 #### Parameters
+#### Parameters
 - ###### Merchant Category Code
-> merchant_category_code: '5812' `Four digits ISO Code for Merchant Category Code` [List](../Merchants%20Categories%20Codes%20List.md)
+> "merchant_category_code": 5812 `Four digits ISO Code for Merchant Category Code. Provided by HalalaH` 
 
 - ###### Merchant Name
-> merchant_name: 'Halalah Grocery' `Merchant Name in (English) Language`
+> "merchant_name": "Halalah Grocery" `Merchant Name in (English) Language`
 
 - ###### Merchant City
-> merchant_city: 'Riyadh' `Merchant City in (English) Language`
+> "merchant_city": "Riyadh" `Merchant City in (English) Language`
 
 - ###### Merchant Postal Code
-> postal_code: '12345' `Five digits for Merchant Location Postal Code`
+> "postal_code": "12345" `Five digits for Merchant Location Postal Code`
 
 - ###### Merchant Name
-> merchant_name_ar: 'هللة' `Merchant Name in (Arabic) Language`
+> "merchant_name_ar": "هللة" `Merchant Name in (Arabic) Language`
 
 - ###### Merchant City
-> merchant_city_ar: 'الرياض' `Merchant City in (Arabic) Language`
+> "merchant_city_ar": "الرياض" `Merchant City in (Arabic) Language`
 
 - ###### Amount
-> amount: '10.50' `Amount in decimal format`
+> "amount": "10.50" `Amount in decimal format`
 
 - ###### Bill Number
-> bill: '1233111' `Bill Number or Invoice number from merchant platform`
+> "bill": "1233111" `Bill Number or Invoice number from merchant platform`
 
 - ###### Reference Unique ID
-> reference: 'Unique_Order_ID' `Unique number to identify order per terminal in HalalaH Platform`
+> "reference": "Unique_Order_ID" `Unique number to identify order per terminal in HalalaH Platform. Minimum of 12 characters`
 
 - ###### Terminal Unique ID
-> terminal: 'HG00001' `Terminal ID provided by HalalaH`
+> "terminal": "HG00001" `Terminal Label provided by HalalaH`
 
-<br /> 
+<br />
+
 
 #### Example 
 ```
