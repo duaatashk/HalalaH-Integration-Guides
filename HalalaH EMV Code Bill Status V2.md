@@ -46,8 +46,7 @@ Use this web service to check the bill payment status
 
 ###### URL
 > Url Parameters 
-> - `Terminal_ID` Which the EMV Code was generated from; substring of the Terminal Label with the prefix removed. 
-Example -- Terminal Label: "HLAL735692". Terminal ID: "735692"
+> - `Terminal_ID` Which the EMV Code was generated from. Provided by HalalaH; 
 > - `Reference Number` Contained in the EMV Code 
 ```
 https://apigw.halalah.sa/Orders/v2/Order/{Terminal_ID}/{Reference_Number}
