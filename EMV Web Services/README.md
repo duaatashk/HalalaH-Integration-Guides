@@ -52,7 +52,7 @@ POST
 
 #### Body Parameters
 - ###### Merchant Category Code
-> "merchant_category_code": 5812 `Four digits ISO Code for Merchant Category Code` [List](../Merchants%20Categories%20Codes%20List.md)
+> "merchant_category_code": 5812 `Four digits ISO Code for Merchant Category Code. Provided by HalalaH` 
 
 - ###### Merchant Name
 > "merchant_name": "Halalah Grocery" `Merchant Name in (English) Language`
@@ -76,13 +76,13 @@ POST
 > "bill": "1233111" `Bill Number or Invoice number from merchant platform`
 
 - ###### Reference Unique ID
-> "reference": "Unique_Order_ID" `Unique number to identify order per terminal in HalalaH Platform`
+> "reference": "Unique_Order_ID" `Unique number to identify order per terminal in HalalaH Platform. Minimum of 12 characters`
 
 - ###### Terminal Unique ID
-> "terminal": "HG00001" `Terminal ID provided by HalalaH`
-
+> "terminal": "HG00001" `Terminal Label provided by HalalaH`
 
 <br />
+
 <br />
 
 
