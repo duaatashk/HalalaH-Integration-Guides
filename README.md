@@ -15,6 +15,9 @@ HalalaH Platform is now open for some serious Business! Find your way within our
 ### Convert/Revert data to QR Code: 
 #### EMV Web Services [Guide](EMV%20Web%20Services/README.md)
 ---
+### QR Code Encoder From Free Text to Image: 
+#### Use the following URL to turn the QR code text to an image. Replace qrcodetext in the URL with your QR code text  [URL](https://halalah.sa/qr_generator.php?text=qrcodetext)
+---
 ### Libraries: 
 #### Dot Net EMV Code Generation [Guide](Dot%20Net%20EMV%20Code%20Generation/README.md)
 
