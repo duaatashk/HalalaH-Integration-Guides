@@ -16,6 +16,12 @@ When using the sandbox, you will need the following credentials provided by Hala
 
 ### 2. Access Token and Bill Status 
 #### HalalaH EMV Code Bill Status V2 [Guide](HalalaH%20EMV%20Code%20Bill%20Status%20V2.md)
+
+### 3. Android Testing App
+##### https://www.halalah.dev/halalah_testing.apk
+Username: 501234567
+Pin: 7890
+
 ---
 ### For Mobile Apps: 
 #### Mobile Apps DeepLink [Guide](Mobile%20Apps%20DeepLink.md)
