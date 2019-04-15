@@ -25,8 +25,8 @@ x-www-form-urlencoded
 ###### Request body
 ```
  "grant_type": “client_credentials"
- “client_id": Provided By HalalaH
- "client_secret": Provided By HalalaH
+ “client_id": halalah_sandbox
+ "client_secret": _aa_VA7FQj%@Wk6+
  “scope": “scope_ext_order_gw_api“
 ```
 ###### Response body
