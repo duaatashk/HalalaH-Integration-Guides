@@ -1,7 +1,15 @@
 # Introduction
 Hello Developer,<br />
 
-HalalaH Platform is now open for some serious Business! Find your way within our technical documentation and start enabling your business with HalalaH payments methods. <br />For Mobile apps and Portals, enrich your client’s experience by simple Payment methods based on HalalaH standard QR code and Deep Links.
+The HalalaH sandbox mirrors the features found on HalalaH production servers. The sandbox has parity with the HalalaH API feature set supported by the live environment. This means you can test your HalalaH transactions and know they will behave the same on the production servers as they do in the sandbox environment; When you initiate a transaction by using a sandbox account, HalalaH creates a mock transaction that behaves exactly like a transaction in the live environment.
+
+When using the sandbox, you will need the following credentials provided by HalalaH:
+ - Merchant Category Code 
+ - Terminal Label 
+ - Terminal ID 
+ - Client ID 
+ - Client Secret
+
 
 ### 1. Generating QR Code:
 #### EMV Code Standards [Document](HalalaH%20QR%20Code%20Standard%20-%20Merchant-Presented%20Mode%20v1.2.pdf)
