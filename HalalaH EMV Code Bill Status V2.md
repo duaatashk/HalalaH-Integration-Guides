@@ -8,7 +8,7 @@ Use this web service to generate an access token to be able to use the bill stat
 
 ###### URL
 ```
- https://login.halalah.sa/connect/token
+ https://login.dev.halalah.sa/connect/token
 ```
 ###### Method
 ```
@@ -49,7 +49,7 @@ Use this web service to check the bill payment status
 > - `Terminal_ID` Which the EMV Code was generated from. Provided by HalalaH; 
 > - `Reference Number` Contained in the EMV Code 
 ```
-https://apigw.halalah.sa/Orders/v2/Order/{Terminal_ID}/{Reference_Number}
+https://apigw.dev.halalah.sa/Orders/v2/Order/{Terminal_ID}/{Reference_Number}
 ```
 ###### Method
 ```
