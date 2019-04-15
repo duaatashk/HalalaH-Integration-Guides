@@ -18,16 +18,25 @@ When using the sandbox, you will need the following credentials provided by Hala
 #### HalalaH EMV Code Bill Status V2 [Guide](HalalaH%20EMV%20Code%20Bill%20Status%20V2.md)
 
 ### 3. Android Test App 
-#### Android Test HalalaH App to scan generated QR code: https://www.halalah.dev/halalah_testing.apk
-Username: 501234567
-Pin: 7890
-
+###### URL
+```
+https://www.halalah.dev/halalah_testing.apk
+```
+> - `Username` 501234567
+> - `Pin` 7890
 ---
 ### For Mobile Apps: 
 #### Mobile Apps DeepLink [Guide](Mobile%20Apps%20DeepLink.md)
 ---
 ### Convert/Revert data to QR Code: 
 #### EMV Web Services [Guide](EMV%20Web%20Services/README.md)
+---
+### QR Code Encoder From Free Text to Image: 
+#### Use the following URL to turn the QR code text to an image. Replace `qrcodetext` in the URL with your QR code text 
+###### URL
+```
+https://halalah.sa/qr_generator.php?text=qrcodetext
+```
 ---
 ### Libraries: 
 #### Dot Net EMV Code Generation [Guide](Dot%20Net%20EMV%20Code%20Generation/README.md)
