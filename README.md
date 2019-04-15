@@ -4,11 +4,11 @@ Hello Developer,<br />
 The HalalaH sandbox mirrors the features found on HalalaH production servers. The sandbox has parity with the HalalaH API feature set supported by the live environment. This means you can test your HalalaH transactions and know they will behave the same on the production servers as they do in the sandbox environment; When you initiate a transaction by using a sandbox account, HalalaH creates a mock transaction that behaves exactly like a transaction in the live environment.
 
 When using the sandbox, you will need the following credentials provided by HalalaH:
- - Merchant Category Code 
- - Terminal Label 
- - Terminal ID 
- - Client ID 
- - Client Secret
+ - Merchant Category Code: 5912
+ - Terminal Label: HS113832
+ - Terminal ID: 113832
+ - Client ID: halalah_sandbox
+ - Client Secret: _aa_VA7FQj%@Wk6+
 
 
 ### 1. Generating QR Code:
